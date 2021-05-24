@@ -1,11 +1,6 @@
-# ################################## Skin Detection Algo 4 ###################################
-# 
-# Habiba Mostafa, 1070307
-# Daniela Aldave-Garza, 1069571
-# 
+################################### Skin Detection Algo 4 ###################################
+
 # adapted from : https://github.com/Harmouch101/Face-Recogntion-Detection
-# 
-##############################################################################################
 
 """
 the following script implements the "RGB-H-CbCr Skin Colour Model for Human Face Detection" 
