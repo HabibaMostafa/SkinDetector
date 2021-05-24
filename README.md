@@ -1,9 +1,6 @@
-#### CIS*4720 Assignment 3
-#### Habiba Mostafa, 1070307
-#### Daniela Aldave-Garza, 1069571
-#### March 23, 2021 
-
 The following algorithms have been developed in python3 and should be run in python3 accordingly.
+
+-- In collaboration with Daniela -- 
 
 ## Prerequisite package installations 
 
