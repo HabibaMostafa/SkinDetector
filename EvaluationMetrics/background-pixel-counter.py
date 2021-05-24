@@ -1,4 +1,4 @@
-# ############################  Background Pixel Counter Program  #############################
+############################  Background Pixel Counter Program  #############################
 
 import cv2
 import numpy as np
