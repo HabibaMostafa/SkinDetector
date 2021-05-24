@@ -1,11 +1,6 @@
-# ################################## Skin Detection Algo 3 ###################################
-# 
-# Habiba Mostafa, 1070307
-# Daniela Aldave-Garza, 1069571
-# 
-# resources - https://www.codespeedy.com/skin-detection-using-opencv-in-python/
+################################## Skin Detection Algo 3 ###################################
 
-###############################################################################################
+# resources - https://www.codespeedy.com/skin-detection-using-opencv-in-python/
 
 # import all essential libraries
 import cv2
