@@ -1,9 +1,4 @@
 # ############################  Background Pixel Counter Program  #############################
-# 
-# Habiba Mostafa, 1070307
-# Daniela Aldave-Garza, 1069571
-# 
-###############################################################################################
 
 import cv2
 import numpy as np
