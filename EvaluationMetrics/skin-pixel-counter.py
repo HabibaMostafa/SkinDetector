@@ -1,4 +1,4 @@
-# ################################ Skin Pixel Counter Program  ################################
+################################ Skin Pixel Counter Program  ################################
 
 from PIL import Image
 import sys
